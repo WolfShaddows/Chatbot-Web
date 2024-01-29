@@ -1,0 +1,47 @@
+body {
+    /* Estilo del cuerpo del documento */
+    font-family: Arial, sans-serif;
+    /* Fuente del texto */
+    margin: 0;
+    /* Sin márgenes externos */
+    padding: 0;
+    /* Sin relleno interno */
+    background-color: #f4f4f4;
+    /* Color de fondo */
+}
+
+#chat-container {
+    /* Estilo del contenedor principal del chat */
+    max-width: 600px;
+    /* Ancho máximo del contenedor */
+    margin: 20px auto;
+    /* Márgenes superior e inferior automáticos, margen izquierdo y derecho automáticos */
+    border: 1px solid #ccc;
+    /* Borde delgada sólida con color gris claro */
+    border-radius: 8px;
+    /* Bordes redondeados */
+    overflow: hidden;
+    /* Oculta cualquier contenido que desborde del contenedor */
+}
+
+#chat-messages {
+    /* Estilo del área de mensajes del chat */
+    padding: 10px;
+    /* Relleno interno de 10px */
+    height: 300px;
+    /* Altura fija de 300px */
+    overflow-y: auto;
+    /* Barra de desplazamiento vertical automática si el contenido es mayor que la altura */
+    background-color: black;
+    /* Color de fondo blanco */
+}
+
+#user-input {
+    /* Estilo del área de entrada del usuario */
+    padding: 10px;
+    /* Relleno interno de 10px */
+    border-top: 1px solid #ccc;
+    /* Borde superior delgado sólido con color gris claro */
+    background-color: #f9f9f9;
+    /* Color de fondo gris claro */
+}

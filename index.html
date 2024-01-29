@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Configuración del documento -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot con OpenAI</title>
+
+    <!-- Enlace al archivo de estilo CSS -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Contenedor principal del chat -->
+    <div id="chat-container">
+
+        <!-- Área para mostrar los mensajes del chat -->
+        <div id="chat-messages"></div>
+
+        <!-- Área para que el usuario ingrese mensajes -->
+        <div id="user-input">
+            <!-- Etiqueta que muestra "Tú:" junto a un campo de entrada de texto -->
+            Tú: <input type="text" id="userMessage" style="width: 80%;">
+
+            <!-- Botón que activa la función sendMessage al hacer clic -->
+            <button onclick="sendMessage()" style="background-color: black;">Enviar</button>
+        </div>
+    </div>
+
+    <!-- Inclusión de la biblioteca Axios para hacer solicitudes HTTP -->
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+    <!-- Inclusión del script JavaScript que maneja la lógica del chat -->
+    <script src="script.js"></script>
+</body>
+
+</html>
