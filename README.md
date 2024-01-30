@@ -50,8 +50,7 @@ Luego creamos los archivos dentro del directorio:
 
 ### 	Instalación de Dependencias
 
-Vamos a instalar las dependencias necesarias:
--Instalamos la dependencia axios:
+Vamos a instalar las dependencias necesarias => Instalamos la dependencia axios:
 
 `pip install axios` (documentacion https://axios-http.com/es/docs/intro).
 
