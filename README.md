@@ -1,9 +1,9 @@
 # Chatbot en entorno Web
 ###   Proyecto
-Tipo de Chatbot: Un chatbot especializado en temas generales.
-Interactividad: Respuestas elaboradas.
-Modo de Funcionamiento: GPT se encarga de responder.
-Plataforma de Implementación: Live Server Local.
+###### Tipo de Chatbot: *Un chatbot especializado en temas generales.*
+###### Interactividad:* Respuestas elaboradas.*
+###### Modo de Funcionamiento: *GPT se encarga de responder.*
+###### Plataforma de Implementación: *Live Server Local.*
 
 ------------
 
@@ -24,10 +24,10 @@ Cuenta de OpenAI GPT-3: Necesitarás una cuenta en OpenAI para obtener las crede
 ###  Estructura del Proyecto  Estructura del Proyecto
 Creamos un proyecto simple con la siguiente estructura:
 
-	- 	/chatbot
-			-index.html
- 			-styles.css
-	 		-script.js
+/chatbot
+-index.html
+-styles.css
+-script.js
 	
 
 ------------
@@ -41,9 +41,9 @@ Primero, crea un nuevo directorio para el proyecto y navega a él:
 
 Luego creamos los archivos dentro del directorio:
 
-	- index.html
-	- styles.css
-	- script.js
+ index.html
+ styles.css
+ script.js
 
 ------------
 
@@ -51,7 +51,8 @@ Luego creamos los archivos dentro del directorio:
 ### 	Instalación de Dependencias
 Vamos a instalar las dependencias necesarias:
    -Instalamos la dependencia axios:
-		- pip install axios (documentacion https://axios-http.com/es/docs/intro).
+-
+`pip install axios` (documentacion https://axios-http.com/es/docs/intro).
 
  Otener la Clave de API de OpenAI:
  
