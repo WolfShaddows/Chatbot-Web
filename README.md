@@ -25,9 +25,9 @@ Cuenta de OpenAI GPT-3: Necesitarás una cuenta en OpenAI para obtener las crede
 Creamos un proyecto simple con la siguiente estructura:
 
 - 	/chatbot
-	- 		index.html
-	-     	styles.css
-	- 		script.js
+		-index.html
+ 		-styles.css
+	 	-script.js
 	
 
 ------------
@@ -50,10 +50,9 @@ Luego creamos los archivos dentro del directorio:
 
 ### 	Instalación de Dependencias
 Vamos a instalar las dependencias necesarias:
-   -	stalamos la dependencia axios
-   -   pip install axios (documentacion https://axios-http.com/es/docs/intro).
+   -Instalamos la dependencia axios:
+	- pip install axios (documentacion https://axios-http.com/es/docs/intro).
 
- 
  Otener la Clave de API de OpenAI:
  
 Asegúrate de reemplazar 'tu_clave_de_api_de_openai' con tu clave de API de OpenAI en el script (enlace api key https://platform.openai.com/api-keys).
