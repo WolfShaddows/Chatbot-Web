@@ -1,7 +1,7 @@
 # Chatbot en entorno Web
 ###   Proyecto
 ###### Tipo de Chatbot: *Un chatbot especializado en temas generales.*
-###### Interactividad:* Respuestas elaboradas.*
+###### Interactividad: * Respuestas elaboradas.*
 ###### Modo de Funcionamiento: *GPT se encarga de responder.*
 ###### Plataforma de Implementación: *Live Server Local.*
 
@@ -15,8 +15,9 @@ Haremos el chatbot en JavaScript, en un entorno HTML y CSS sencillo y también l
 
 
 ###  Herramientas Necesarias  Herramientas Necesarias
-Editor de Código: Puedes utilizar Visual Studio Code, Sublime Text, Atom, o cualquier editor de tu preferencia (en este ejemplo se utilizó Visual Studio Code).
-Cuenta de OpenAI GPT-3: Necesitarás una cuenta en OpenAI para obtener las credenciales de la API. Si no tienes una cuenta, puedes registrarte en OpenAI.
+*Editor de Código:* Puedes utilizar Visual Studio Code, Sublime Text, Atom, o cualquier editor de tu preferencia (en este ejemplo se utilizó Visual Studio Code).
+
+*Cuenta de OpenAI GPT-3*: Necesitarás una cuenta en OpenAI para obtener las credenciales de la API. Si no tienes una cuenta, puedes registrarte en OpenAI.
 
 ------------
 
@@ -48,9 +49,10 @@ Luego creamos los archivos dentro del directorio:
 
 
 ### 	Instalación de Dependencias
+
 Vamos a instalar las dependencias necesarias:
-   -Instalamos la dependencia axios:
--
+-Instalamos la dependencia axios:
+
 `pip install axios` (documentacion https://axios-http.com/es/docs/intro).
 
  Otener la Clave de API de OpenAI:
@@ -69,4 +71,3 @@ El URL del servidor local se mostrará en la parte inferior del VS Code. Puede s
 ------------
 
 ## fin...
-
