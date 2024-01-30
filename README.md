@@ -22,9 +22,13 @@ Cuenta de OpenAI GPT-3: Necesitarás una cuenta en OpenAI para obtener las crede
 
 
 ###  Estructura del Proyecto  Estructura del Proyecto
-Creamos un proyecto simple con la siguiente estructura:
 
-`/chatbot/ndex.html-styles.css-script.js`
+Creamos un proyecto simple con la siguiente estructura:
+###### ./chatbot
+> ###### index.html
+> ###### styles.css
+> ###### script.js
+
 ------------
 
 
@@ -65,3 +69,4 @@ El URL del servidor local se mostrará en la parte inferior del VS Code. Puede s
 ------------
 
 ## fin...
+
